@@ -23,7 +23,7 @@ var app = {
     
     renderHomeView: function() {
         var html =
-                "<div class='header'><h1>Home</h1></div>" +
+                "<div class='header'><h1>Home Sweet Home</h1></div>" +
                 "<div class='search-view'>" +
                 "<input class='search-key'/>" +
                 "<ul class='employee-list'></ul>" +
