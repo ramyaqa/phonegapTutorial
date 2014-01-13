@@ -22,6 +22,7 @@ var app = {
             
         }
         $(window).on('hashchange', $.proxy(this.route, this));
+        
     },
     route: function() {
         var hash = window.location.hash;
